@@ -1,0 +1,11 @@
+name: code-optimization
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+    - python=3.10
+    - numpy
+    - matplotlib
+    - numba
+    - black
