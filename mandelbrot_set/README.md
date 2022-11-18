@@ -3,4 +3,4 @@ cProfile generates statistics of the entire program listing the time spent in di
 
 ### Profile the mandelbrot set program using cProfile
 
-Python -m cprofile -o mandel.dat mandel_main.py
+`Python -m cprofile -o mandel.dat mandel_main.py`
