@@ -8,4 +8,4 @@ Use the %timeit magic command
 
 ### Using timeit from the command line
 
-python -m timeit -s "from claculate_pi import calculate_pi" "calculate_pi(100000)"
+`python -m timeit -s "from claculate_pi import calculate_pi" "calculate_pi(100000)"`
